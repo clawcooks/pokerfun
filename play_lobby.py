@@ -7,10 +7,31 @@ os.environ.setdefault("PYTHONUTF8", "1")
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-import itertools, random, time
+import itertools, random, time, csv, os
 import httpx
 from dotenv import load_dotenv
 load_dotenv()
+
+# ── Game log setup ────────────────────────────────────────────────────────────
+LOG_FILE = "gamelog.csv"
+def _init_log():
+    if not os.path.exists(LOG_FILE):
+        with open(LOG_FILE, "w", newline="") as f:
+            csv.writer(f).writerow([
+                "timestamp","competition","table_id","street","hand_class",
+                "hole_cards","board_cards","action","amount","equity_pct",
+                "pot","call_amount","stack","message"
+            ])
+
+def _log_hand(comp_id, tid, street, cls, hole, board, action, amount, eq_pct, pot, call_c, stack, msg):
+    try:
+        with open(LOG_FILE, "a", newline="") as f:
+            csv.writer(f).writerow([
+                time.strftime("%Y-%m-%d %H:%M:%S"), comp_id, tid, street, cls,
+                " ".join(hole), " ".join(board), action, amount,
+                eq_pct, pot, call_c, stack, msg
+            ])
+    except: pass
 
 API_KEY      = os.environ["ARENA_API_KEY"]
 AGENT_ID     = os.environ["ARENA_AGENT_ID"]
@@ -504,6 +525,7 @@ def main():
     last_join = {c["id"]: 0 for c in COMPETITIONS}
     last_stat = time.time()
 
+    _init_log()
     print("Statistical equity agent — Tournament S2 + Playground S3.", flush=True)
 
     for comp in COMPETITIONS:
@@ -560,12 +582,19 @@ def main():
                 payload["amount"] = dec["amount"]
 
             self_n = table.get("selfSeatNumber") or 0
-            hole   = next((s.get("holeCards",[]) for s in (table.get("seats") or [])
-                           if s.get("seatNumber")==self_n),[])
+            me_s   = next((s for s in (table.get("seats") or []) if s.get("seatNumber")==self_n), {})
+            hole   = list(me_s.get("holeCards") or [])
             board  = table.get("boardCards") or []
             cls    = _hand_class(hole)
-            amt_str= f" {payload['amount']}" if "amount" in payload else ""
+            street = _street(board)
+            pot    = int(table.get("potChips") or 0)
+            call_c = int((table.get("allowedActions") or {}).get("callChips") or 0)
+            stack  = int(me_s.get("stackChips") or 0)
+            amt    = payload.get("amount", 0)
+            eq_pct = int(dec.get("message","0%").split("eq=")[-1].replace("%","").split()[0]) if "eq=" in dec.get("message","") else 0
+            amt_str= f" {amt}" if amt else ""
             print(f"  [{comp_id[:8]}][{tid[:6]}] {cls} {board} -> {action}{amt_str}", flush=True)
+            _log_hand(comp_id, tid, street, cls, hole, board, action, amt, eq_pct, pot, call_c, stack, dec.get("message",""))
 
             try:
                 client.post(f"{BASE}/texas/action", json=payload)
