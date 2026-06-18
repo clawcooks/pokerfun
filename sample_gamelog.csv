@@ -1,0 +1,252 @@
+timestamp,competition,table_id,street,hand_class,hole_cards,board_cards,action,amount,equity_pct,pot,call_amount,stack,message
+2026-06-18 14:24:11,cmqggiv9k37am11ydmppz466e,cmqjj6xxsuczxbezqvr3tzq0u,preflop,85o,8d 5h,,fold,0,0,15,10,1070,fold 85o
+2026-06-18 14:27:08,cmqf827h30u7dfca3x2aqvzjv,cmqjj9gd3uqqsbezq5qo6phwp,preflop,K7o,Kc 7d,,fold,0,0,3,2,3963,fold K7o
+2026-06-18 14:27:25,cmqggiv9k37am11ydmppz466e,cmqjj9idsur8sbezqg97gep5a,preflop,98o,8s 9c,,fold,0,0,25,5,1065,fold 98o
+2026-06-18 14:28:11,cmqggiv9k37am11ydmppz466e,cmqjjc3fkv48ibezqfs59g54p,preflop,52s,5s 2s,,fold,0,0,15,10,1065,fold 52s
+2026-06-18 14:31:30,cmqggiv9k37am11ydmppz466e,cmqjjfxy2vrvwbezqp89area7,preflop,97o,7c 9s,,fold,0,0,38,18,1060,deadline
+2026-06-18 14:32:20,cmqf827h30u7dfca3x2aqvzjv,cmqjjem06vivfbezqyll0g6nu,preflop,K9s,Kc 9c,,call,0,0,3,2,3963,call K9s — see flop
+2026-06-18 14:33:13,cmqggiv9k37am11ydmppz466e,cmqjjiim4w78qbezq53kwn1rx,preflop,T3o,Td 3s,,fold,0,0,25,10,1060,fold T3o
+2026-06-18 14:33:21,cmqggiv9k37am11ydmppz466e,cmqjjiim4w78qbezq53kwn1rx,preflop,T3o,Td 3s,,fold,0,0,25,10,1060,fold T3o
+2026-06-18 14:34:24,cmqggiv9k37am11ydmppz466e,cmqjjjqt1wee2bezqwdykff4q,preflop,62o,2c 6h,,fold,0,0,52,37,1060,deadline
+2026-06-18 14:34:50,cmqf827h30u7dfca3x2aqvzjv,cmqjjem06vivfbezqyll0g6nu,flop,K9s,Kc 9c,2c Qs Jd,check,0,30,5,0,3961,check eq=30%
+2026-06-18 14:35:30,cmqf827h30u7dfca3x2aqvzjv,cmqjjem06vivfbezqyll0g6nu,turn,K9s,Kc 9c,2c Qs Jd 7c,bet,100,0,5,0,3961,flush draw — semi-bluff
+2026-06-18 14:36:11,cmqggiv9k37am11ydmppz466e,cmqjjmdfxwsc8bezqea0cf7tu,preflop,88,8c 8d,,call,0,0,15,10,1060,call 88 — see flop
+2026-06-18 14:36:18,cmqggiv9k37am11ydmppz466e,cmqjjmdfxwsc8bezqea0cf7tu,preflop,88,8c 8d,,call,0,0,15,10,1060,call 88 — see flop
+2026-06-18 14:36:26,cmqggiv9k37am11ydmppz466e,cmqjjmdfxwsc8bezqea0cf7tu,preflop,88,8c 8d,,fold,0,0,15,10,1060,deadline
+2026-06-18 14:37:13,cmqf827h30u7dfca3x2aqvzjv,cmqjjmbgrwrqgbezqgkuyo3gw,preflop,T8o,Ts 8d,,fold,0,0,8,4,3965,fold T8o
+2026-06-18 14:37:20,cmqggiv9k37am11ydmppz466e,cmqjjnntdx0lfbezqomj3rxm1,preflop,JTo,Jh Ts,,raise,30.0,0,30,0,1050,open JTo
+2026-06-18 14:37:20,cmqf827h30u7dfca3x2aqvzjv,cmqjjmbgrwrqgbezqgkuyo3gw,preflop,T8o,Ts 8d,,fold,0,0,8,4,3965,fold T8o
+2026-06-18 14:38:06,cmqf827h30u7dfca3x2aqvzjv,cmqjjox1nx8krbezqb6psf62g,preflop,J3o,3s Jd,,fold,0,0,3,2,3965,fold J3o
+2026-06-18 14:38:14,cmqggiv9k37am11ydmppz466e,cmqjjow1zx80wbezqjwwg01c6,preflop,86o,6h 8d,,fold,0,0,15,10,1080,fold 86o
+2026-06-18 14:38:15,cmqf827h30u7dfca3x2aqvzjv,cmqjjox1nx8krbezqb6psf62g,preflop,J3o,3s Jd,,fold,0,0,3,2,3965,fold J3o
+2026-06-18 14:38:21,cmqggiv9k37am11ydmppz466e,cmqjjow1zx80wbezqjwwg01c6,preflop,86o,6h 8d,,fold,0,0,15,10,1080,deadline
+2026-06-18 14:38:22,cmqf827h30u7dfca3x2aqvzjv,cmqjjox1nx8krbezqb6psf62g,preflop,J3o,3s Jd,,fold,0,0,3,2,3965,fold J3o
+2026-06-18 14:40:10,cmqf827h30u7dfca3x2aqvzjv,cmqjjrh39xnj3bezqbpiiqj3z,preflop,86o,8s 6d,,fold,0,0,3,2,3965,fold 86o
+2026-06-18 14:40:18,cmqggiv9k37am11ydmppz466e,cmqjjrgroxndwbezqof58sgs2,preflop,43o,3h 4c,,fold,0,0,25,10,1080,fold 43o
+2026-06-18 14:40:19,cmqf827h30u7dfca3x2aqvzjv,cmqjjrh39xnj3bezqbpiiqj3z,preflop,86o,8s 6d,,fold,0,0,3,2,3965,fold 86o
+2026-06-18 14:40:25,cmqggiv9k37am11ydmppz466e,cmqjjrgroxndwbezqof58sgs2,preflop,43o,3h 4c,,fold,0,0,25,10,1080,fold 43o
+2026-06-18 14:40:26,cmqf827h30u7dfca3x2aqvzjv,cmqjjrh39xnj3bezqbpiiqj3z,preflop,86o,8s 6d,,fold,0,0,3,2,3965,fold 86o
+2026-06-18 14:42:14,cmqggiv9k37am11ydmppz466e,cmqjjsr48xv7tbezqwai5yqwb,preflop,43s,3h 4h,,fold,0,0,50,35,1080,fold 43s
+2026-06-18 14:43:34,cmqggiv9k37am11ydmppz466e,cmqjjsr48xv7tbezqwai5yqwb,preflop,43s,3h 4h,,fold,0,0,50,35,1080,deadline
+2026-06-18 14:44:30,cmqggiv9k37am11ydmppz466e,cmqjjwlofyiovbezqexydfyzs,preflop,98o,9h 8s,,fold,0,0,15,10,1080,deadline
+2026-06-18 14:46:19,cmqggiv9k37am11ydmppz466e,cmqjjxvvxyrmubezqhyr91k6s,preflop,AA,Ah As,,call,0,0,45,25,1075,call AA — see flop
+2026-06-18 14:46:42,cmqggiv9k37am11ydmppz466e,cmqjjxvvxyrmubezqhyr91k6s,flop,AA,Ah As,4d 5d 3h,check,0,50,70,0,1050,check eq=50%
+2026-06-18 14:46:52,cmqggiv9k37am11ydmppz466e,cmqjjxvvxyrmubezqhyr91k6s,flop,AA,Ah As,4d 5d 3h,fold,0,48,105,35,1050,fold eq=48%
+2026-06-18 14:47:09,cmqf827h30u7dfca3x2aqvzjv,cmqjjxwkbyrvgbezqa1bupp6a,preflop,53o,3c 5s,,check,0,0,4,0,3963,fold 53o
+2026-06-18 14:47:16,cmqggiv9k37am11ydmppz466e,cmqjk0iyyz4qmbezqhqnxliog,preflop,62o,2s 6c,,fold,0,0,15,10,1050,fold 62o
+2026-06-18 14:47:17,cmqf827h30u7dfca3x2aqvzjv,cmqjjxwkbyrvgbezqa1bupp6a,flop,53o,3c 5s,7c Kh Kd,fold,0,5,6,2,3963,fold eq=5%
+2026-06-18 14:49:56,cmqf827h30u7dfca3x2aqvzjv,cmqjk1qqhz9cdbezqudh790j1,preflop,66,6s 6d,,call,0,0,3,1,3962,call 66 — see flop
+2026-06-18 14:50:32,cmqggiv9k37am11ydmppz466e,cmqjk4bxkzndfbezq0orswxb6,preflop,J7o,7c Jd,,fold,0,0,116,64,1050,deadline
+2026-06-18 14:50:51,cmqf827h30u7dfca3x2aqvzjv,cmqjk1qqhz9cdbezqudh790j1,flop,66,6s 6d,As Th Td,check,0,0,4,0,3961,deadline
+2026-06-18 14:51:16,cmqf827h30u7dfca3x2aqvzjv,cmqjk1qqhz9cdbezqudh790j1,turn,66,6s 6d,As Th Td 3s,bet,100,0,4,0,3961,two-pair value
+2026-06-18 14:52:22,cmqggiv9k37am11ydmppz466e,cmqjk6vy4zyp7bezqhneqjccn,preflop,KJo,Kc Jd,,fold,0,0,15,10,1050,deadline
+2026-06-18 14:53:18,cmqf827h30u7dfca3x2aqvzjv,cmqjk86vt05p6bezqssxoh5hn,preflop,K3s,Kh 3h,,fold,0,0,3,2,3965,fold K3s
+2026-06-18 14:55:40,cmqggiv9k37am11ydmppz466e,cmqjk9iwk0cywbezqpbcm7exi,preflop,Q5o,5s Qc,,fold,0,0,35,10,1040,deadline
+2026-06-18 14:56:19,cmqggiv9k37am11ydmppz466e,cmqjkc3tn0s0vbezqvknv8jmq,preflop,J3o,3h Jd,,fold,0,0,45,25,1035,fold J3o
+2026-06-18 14:57:30,cmqf827h30u7dfca3x2aqvzjv,cmqjkc17r0r7gbezq4m1zad9f,preflop,Q8o,Qs 8c,,fold,0,0,3,2,3965,fold Q8o vs raise
+2026-06-18 14:58:42,cmqggiv9k37am11ydmppz466e,cmqjkdbnz0yribezq0wuce8fp,preflop,ATs,Th Ah,,fold,0,0,15,10,1035,deadline
+2026-06-18 15:00:23,cmqggiv9k37am11ydmppz466e,cmqjkh9ae1ielbezqw9gyzjzd,preflop,A6o,Ad 6c,,fold,0,0,45,30,1035,fold A6o
+2026-06-18 15:01:08,cmqf827h30u7dfca3x2aqvzjv,cmqjkfwab1b71bezqh12gc8c1,preflop,52o,5h 2s,,fold,0,0,3,2,3965,fold 52o
+2026-06-18 15:01:23,cmqggiv9k37am11ydmppz466e,cmqjkij5p1m9sbezqkzoevntr,preflop,A8s,8s As,,call,0,0,15,10,1035,call A8s — see flop
+2026-06-18 15:01:30,cmqggiv9k37am11ydmppz466e,cmqjkij5p1m9sbezqkzoevntr,preflop,A8s,8s As,,call,0,0,15,10,1035,call A8s — see flop
+2026-06-18 15:01:37,cmqggiv9k37am11ydmppz466e,cmqjkij5p1m9sbezqkzoevntr,preflop,A8s,8s As,,fold,0,0,15,10,1035,deadline
+2026-06-18 15:01:44,cmqggiv9k37am11ydmppz466e,cmqjkij5p1m9sbezqkzoevntr,preflop,A8s,8s As,,fold,0,0,15,10,1035,deadline
+2026-06-18 15:02:15,cmqggiv9k37am11ydmppz466e,cmqjkjr8y1tdpbezqppkmu25y,preflop,86o,8d 6h,,fold,0,0,25,10,1035,fold 86o
+2026-06-18 15:03:14,cmqggiv9k37am11ydmppz466e,cmqjkl1if202ebezqmrscbmem,preflop,65s,5s 6s,,fold,0,0,15,10,1035,fold 65s
+2026-06-18 15:04:32,cmqggiv9k37am11ydmppz466e,cmqjkmdpo27dabezq3zj9cczf,preflop,K6s,6h Kh,,fold,0,0,89,32,1030,fold K6s
+2026-06-18 15:04:39,cmqggiv9k37am11ydmppz466e,cmqjkmdpo27dabezq3zj9cczf,preflop,K6s,6h Kh,,fold,0,0,89,32,1030,deadline
+2026-06-18 15:04:47,cmqggiv9k37am11ydmppz466e,cmqjkmdpo27dabezq3zj9cczf,preflop,K6s,6h Kh,,fold,0,0,89,32,1030,deadline
+2026-06-18 15:05:10,cmqf827h30u7dfca3x2aqvzjv,cmqjkmc3b2733bezqhaypgqy2,preflop,K6o,Kh 6c,,fold,0,0,3,1,3964,fold K6o
+2026-06-18 15:06:18,cmqggiv9k37am11ydmppz466e,cmqjkoydl2kr1bezq6ydev952,preflop,Q4o,Qc 4d,,fold,0,0,15,10,1030,fold Q4o
+2026-06-18 15:07:08,cmqf827h30u7dfca3x2aqvzjv,cmqjkow832k31bezqrd8njt9n,preflop,32o,2s 3h,,fold,0,0,3,2,3964,fold 32o
+2026-06-18 15:07:15,cmqggiv9k37am11ydmppz466e,cmqjkq6i42pgqbezqdjamuj33,preflop,A2s,Ac 2c,,fold,0,0,45,30,1030,fold A2s
+2026-06-18 15:07:16,cmqf827h30u7dfca3x2aqvzjv,cmqjkow832k31bezqrd8njt9n,preflop,32o,2s 3h,,fold,0,0,3,2,3964,fold 32o
+2026-06-18 15:07:30,cmqggiv9k37am11ydmppz466e,cmqjkq6i42pgqbezqdjamuj33,preflop,A2s,Ac 2c,,fold,0,0,45,30,1030,deadline
+2026-06-18 15:07:32,cmqf827h30u7dfca3x2aqvzjv,cmqjkow832k31bezqrd8njt9n,preflop,32o,2s 3h,,fold,0,0,3,2,3964,deadline
+2026-06-18 15:10:22,cmqggiv9k37am11ydmppz466e,cmqjkstcs32ofbezqkago9ipn,preflop,J5o,5s Jc,,fold,0,0,65,25,1025,fold J5o
+2026-06-18 15:10:29,cmqggiv9k37am11ydmppz466e,cmqjkstcs32ofbezqkago9ipn,preflop,J5o,5s Jc,,fold,0,0,65,25,1025,fold J5o
+2026-06-18 15:11:14,cmqggiv9k37am11ydmppz466e,cmqjkvdp33daqbezqo5ok0661,preflop,44,4s 4h,,fold,0,0,25,10,1025,fold 44
+2026-06-18 15:11:22,cmqggiv9k37am11ydmppz466e,cmqjkvdp33daqbezqo5ok0661,preflop,44,4s 4h,,fold,0,0,25,10,1025,fold 44
+2026-06-18 15:11:29,cmqggiv9k37am11ydmppz466e,cmqjkvdp33daqbezqo5ok0661,preflop,44,4s 4h,,fold,0,0,25,10,1025,deadline
+2026-06-18 15:12:14,cmqf827h30u7dfca3x2aqvzjv,cmqjkwmm03kyxbezqqmzmg3d6,preflop,54o,5h 4c,,fold,0,0,3,2,3964,fold 54o
+2026-06-18 15:12:21,cmqf827h30u7dfca3x2aqvzjv,cmqjkwmm03kyxbezqqmzmg3d6,preflop,54o,5h 4c,,fold,0,0,3,2,3964,fold 54o
+2026-06-18 15:12:28,cmqf827h30u7dfca3x2aqvzjv,cmqjkwmm03kyxbezqqmzmg3d6,preflop,54o,5h 4c,,fold,0,0,3,2,3964,fold 54o
+2026-06-18 15:14:27,cmqggiv9k37am11ydmppz466e,cmqjkxyyd3t1vbezqkt6mymps,preflop,54o,5d 4c,,fold,0,0,52,27,1015,fold 54o
+2026-06-18 15:14:35,cmqggiv9k37am11ydmppz466e,cmqjkxyyd3t1vbezqkt6mymps,preflop,54o,5d 4c,,fold,0,0,52,27,1015,deadline
+2026-06-18 15:15:15,cmqf827h30u7dfca3x2aqvzjv,cmqjkz6l33ysmbezqmtyfj04c,preflop,97o,9h 7s,,fold,0,0,3,2,3964,fold 97o
+2026-06-18 15:15:33,cmqggiv9k37am11ydmppz466e,cmqjl0hbg44hdbezqencocz9i,preflop,85s,5c 8c,,fold,0,0,55,20,1015,fold 85s
+2026-06-18 15:17:15,cmqggiv9k37am11ydmppz466e,cmqjl31qg4h74bezqm54vs6z0,preflop,Q7o,7h Qs,,fold,0,0,45,30,1015,fold Q7o
+2026-06-18 15:18:25,cmqggiv9k37am11ydmppz466e,cmqjl4bmj4pkebezqlx0d51c4,preflop,Q5o,5c Qs,,fold,0,0,50,10,1005,fold Q5o
+2026-06-18 15:18:35,cmqggiv9k37am11ydmppz466e,cmqjl4bmj4pkebezqlx0d51c4,preflop,Q5o,5c Qs,,fold,0,0,50,10,1005,deadline
+2026-06-18 15:19:06,cmqf827h30u7dfca3x2aqvzjv,cmqjl4cc14prwbezqngyl4l33,preflop,Q9o,9d Qs,,call,0,0,3,2,3964,call Q9o — see flop
+2026-06-18 15:20:27,cmqggiv9k37am11ydmppz466e,cmqjl6yhj55qlbezqfn403lhj,preflop,K6o,6h Kd,,fold,0,0,15,5,1000,fold K6o
+2026-06-18 15:20:35,cmqggiv9k37am11ydmppz466e,cmqjl6yhj55qlbezqfn403lhj,preflop,K6o,6h Kd,,fold,0,0,15,5,1000,fold K6o
+2026-06-18 15:21:05,cmqf827h30u7dfca3x2aqvzjv,cmqjl4cc14prwbezqngyl4l33,preflop,Q9o,9d Qs,,call,0,0,24,18,3962,call Q9o — see flop
+2026-06-18 15:21:14,cmqggiv9k37am11ydmppz466e,cmqjl88yd5d4vbezqwdmzk952,preflop,J7o,Jc 7s,,fold,0,0,15,10,1000,fold J7o
+2026-06-18 15:21:21,cmqf827h30u7dfca3x2aqvzjv,cmqjl4cc14prwbezqngyl4l33,flop,Q9o,9d Qs,Qd 5d 6s,fold,0,50,57,15,3944,fold eq=50%
+2026-06-18 15:21:28,cmqf827h30u7dfca3x2aqvzjv,cmqjl4cc14prwbezqngyl4l33,flop,Q9o,9d Qs,Qd 5d 6s,raise,100,52,57,15,3944,raise eq=52%
+2026-06-18 15:21:35,cmqf827h30u7dfca3x2aqvzjv,cmqjl4cc14prwbezqngyl4l33,flop,Q9o,9d Qs,Qd 5d 6s,raise,100,52,57,15,3944,raise eq=52%
+2026-06-18 15:21:46,cmqf827h30u7dfca3x2aqvzjv,cmqjl4cc14prwbezqngyl4l33,turn,Q9o,9d Qs,Qd 5d 6s Ts,raise,141,56,257,15,3844,raise eq=56%
+2026-06-18 15:22:11,cmqf827h30u7dfca3x2aqvzjv,cmqjl4cc14prwbezqngyl4l33,river,Q9o,9d Qs,Qd 5d 6s Ts Jc,raise,296,57,539,15,3703,raise eq=57%
+2026-06-18 15:22:24,cmqggiv9k37am11ydmppz466e,cmqjl9jcz5ik8bezqzls4jdj7,preflop,62s,6s 2s,,fold,0,0,45,25,995,fold 62s
+2026-06-18 15:23:41,cmqggiv9k37am11ydmppz466e,cmqjlatq65nusbezq5wqity3v,preflop,K5s,Kh 5h,,fold,0,0,40,15,985,fold K5s
+2026-06-18 15:24:16,cmqggiv9k37am11ydmppz466e,cmqjlc3pe5uqxbezq223mu9rb,preflop,Q7o,Qh 7d,,fold,0,0,15,10,985,fold Q7o
+2026-06-18 15:25:34,cmqggiv9k37am11ydmppz466e,cmqjldbp260eibezqwt5r2i5n,preflop,A6o,6h Ad,,fold,0,0,15,10,985,deadline
+2026-06-18 15:26:39,cmqggiv9k37am11ydmppz466e,cmqjlem57689ebezq8vqwc22c,preflop,KTo,Ts Kh,,call,0,0,75,30,985,call KTo — see flop
+2026-06-18 15:26:46,cmqggiv9k37am11ydmppz466e,cmqjlem57689ebezq8vqwc22c,preflop,KTo,Ts Kh,,call,0,0,75,30,985,call KTo — see flop
+2026-06-18 15:27:03,cmqggiv9k37am11ydmppz466e,cmqjlem57689ebezq8vqwc22c,flop,KTo,Ts Kh,9c 8h 7c,bet,100,56,125,0,955,value eq=56%
+2026-06-18 15:27:41,cmqggiv9k37am11ydmppz466e,cmqjlem57689ebezq8vqwc22c,turn,KTo,Ts Kh,9c 8h 7c Ad,fold,0,26,487,162,855,fold eq=26%
+2026-06-18 15:28:39,cmqggiv9k37am11ydmppz466e,cmqjlh6vw6pxobezqjl2h4dh7,preflop,JTo,Jc Ts,,fold,0,0,82,42,845,deadline
+2026-06-18 15:28:46,cmqggiv9k37am11ydmppz466e,cmqjlh6vw6pxobezqjl2h4dh7,preflop,JTo,Jc Ts,,fold,0,0,82,42,845,deadline
+2026-06-18 15:29:17,cmqggiv9k37am11ydmppz466e,cmqjligvn6xwubezqz38icszr,preflop,32o,3d 2s,,fold,0,0,15,10,845,fold 32o
+2026-06-18 15:30:13,cmqf827h30u7dfca3x2aqvzjv,cmqjlihv66yczbezqjcwgo8fe,preflop,A3o,3h Ac,,fold,0,0,3,2,4243,fold A3o
+2026-06-18 15:30:20,cmqggiv9k37am11ydmppz466e,cmqjljrg874jebezqpo273mge,preflop,72o,7c 2h,,fold,0,0,15,5,840,fold 72o
+2026-06-18 15:31:14,cmqggiv9k37am11ydmppz466e,cmqjll1mh7bwqbezq6elnc1s6,preflop,K6s,Ks 6s,,fold,0,0,15,10,840,fold K6s
+2026-06-18 15:32:14,cmqggiv9k37am11ydmppz466e,cmqjlmbvk7lp5bezq4q9erxtv,preflop,64s,6h 4h,,fold,0,0,15,10,840,fold 64s
+2026-06-18 15:34:52,cmqf827h30u7dfca3x2aqvzjv,cmqjlox3c7zkqbezq5yisesp9,preflop,J4s,Js 4s,,fold,0,0,3,2,4243,fold J4s
+2026-06-18 15:35:24,cmqggiv9k37am11ydmppz466e,cmqjlq6qh8a0lbezq0kqkvkb2,preflop,K6s,Kd 6d,,fold,0,0,15,5,835,fold K6s
+2026-06-18 15:35:31,cmqggiv9k37am11ydmppz466e,cmqjlq6qh8a0lbezq0kqkvkb2,preflop,K6s,Kd 6d,,fold,0,0,15,5,835,deadline
+2026-06-18 15:37:10,cmqggiv9k37am11ydmppz466e,cmqjlrheu8in2bezqjvgy8r5y,preflop,J8o,Jd 8h,,fold,0,0,45,30,835,fold J8o vs raise
+2026-06-18 15:38:10,cmqf827h30u7dfca3x2aqvzjv,cmqjlssjz8sapbezq7ukilt57,preflop,63s,6d 3d,,fold,0,0,3,2,4243,fold 63s
+2026-06-18 15:39:18,cmqggiv9k37am11ydmppz466e,cmqjlu1l890dwbezq2ogpyo8i,preflop,Q8o,Qc 8h,,fold,0,0,15,10,835,fold Q8o vs raise
+2026-06-18 15:39:25,cmqggiv9k37am11ydmppz466e,cmqjlu1l890dwbezq2ogpyo8i,preflop,Q8o,Qc 8h,,fold,0,0,15,10,835,deadline
+2026-06-18 15:39:32,cmqggiv9k37am11ydmppz466e,cmqjlu1l890dwbezq2ogpyo8i,preflop,Q8o,Qc 8h,,fold,0,0,15,10,835,deadline
+2026-06-18 15:40:10,cmqf827h30u7dfca3x2aqvzjv,cmqjlwmvm9is5bezqt6p2vxtz,preflop,J3s,3h Jh,,fold,0,0,3,2,4243,fold J3s
+2026-06-18 15:40:18,cmqggiv9k37am11ydmppz466e,cmqjlwma69ikqbezqwljnq9qo,preflop,T8o,8c Ts,,fold,0,0,65,25,830,fold T8o vs raise
+2026-06-18 15:40:26,cmqggiv9k37am11ydmppz466e,cmqjlwma69ikqbezqwljnq9qo,preflop,T8o,8c Ts,,fold,0,0,65,25,830,deadline
+2026-06-18 15:40:33,cmqggiv9k37am11ydmppz466e,cmqjlwma69ikqbezqwljnq9qo,preflop,T8o,8c Ts,,fold,0,0,65,25,830,deadline
+2026-06-18 15:41:12,cmqggiv9k37am11ydmppz466e,cmqjlxwgx9ppsbezqj8ufhsns,preflop,96s,9d 6d,,fold,0,0,15,10,830,fold 96s
+2026-06-18 15:42:19,cmqggiv9k37am11ydmppz466e,cmqjlz95ra0arbezq6r8t99lr,preflop,J8o,8d Js,,fold,0,0,62,32,820,fold J8o vs raise
+2026-06-18 15:43:19,cmqggiv9k37am11ydmppz466e,cmqjm0jfea9c2bezqb66x2vq5,preflop,QJs,Qc Jc,,call,0,0,90,50,820,call QJs — suited royal
+2026-06-18 15:43:34,cmqggiv9k37am11ydmppz466e,cmqjm0jfea9c2bezqb66x2vq5,flop,QJs,Qc Jc,Td 3c Tc,call,0,0,193,53,770,call flush draw
+2026-06-18 15:43:42,cmqggiv9k37am11ydmppz466e,cmqjm0jfea9c2bezqb66x2vq5,turn,QJs,Qc Jc,Td 3c Tc 6d,call,0,0,339,93,717,call flush draw
+2026-06-18 15:43:51,cmqggiv9k37am11ydmppz466e,cmqjm0jfea9c2bezqb66x2vq5,river,QJs,Qc Jc,Td 3c Tc 6d Ad,fold,0,0,596,164,624,fold flush draw — bad odds
+2026-06-18 15:44:14,cmqggiv9k37am11ydmppz466e,cmqjm1u6cah9xbezqpe686jok,preflop,97o,7h 9c,,fold,0,0,15,10,624,fold 97o
+2026-06-18 15:45:24,cmqggiv9k37am11ydmppz466e,cmqjm31pvap4hbezqgbo9uhzu,preflop,J3o,Js 3c,,fold,0,0,45,20,624,fold J3o
+2026-06-18 15:47:27,cmqggiv9k37am11ydmppz466e,cmqjm5m83b4knbezq2ns2f9h4,preflop,K6o,Kd 6c,,fold,0,0,35,20,624,fold K6o
+2026-06-18 15:48:05,cmqf827h30u7dfca3x2aqvzjv,cmqjm32v9aplsbezqdpvm83i6,preflop,K3s,3s Ks,,fold,0,0,3,1,4242,fold K3s
+2026-06-18 15:48:12,cmqf827h30u7dfca3x2aqvzjv,cmqjm32v9aplsbezqdpvm83i6,preflop,K3s,3s Ks,,fold,0,0,3,1,4242,fold K3s
+2026-06-18 15:48:19,cmqf827h30u7dfca3x2aqvzjv,cmqjm32v9aplsbezqdpvm83i6,preflop,K3s,3s Ks,,fold,0,0,3,1,4242,fold K3s
+2026-06-18 15:48:20,cmqggiv9k37am11ydmppz466e,cmqjm6zcmbchwbezqgbg7g8kl,preflop,74s,7c 4c,,fold,0,0,65,20,624,fold 74s
+2026-06-18 15:49:21,cmqggiv9k37am11ydmppz466e,cmqjm89m3bp9abezqr4pyi7gb,preflop,K9s,Kd 9d,,call,0,0,35,20,624,call K9s — see flop
+2026-06-18 15:50:21,cmqggiv9k37am11ydmppz466e,cmqjm89m3bp9abezqr4pyi7gb,flop,K9s,Kd 9d,7h 4s 2h,check,0,14,65,0,604,check eq=14%
+2026-06-18 15:50:43,cmqggiv9k37am11ydmppz466e,cmqjm89m3bp9abezqr4pyi7gb,turn,K9s,Kd 9d,7h 4s 2h Ah,check,0,5,65,0,604,check eq=5%
+2026-06-18 15:51:00,cmqggiv9k37am11ydmppz466e,cmqjm89m3bp9abezqr4pyi7gb,river,K9s,Kd 9d,7h 4s 2h Ah Ac,check,0,8,65,0,604,check eq=8%
+2026-06-18 15:51:07,cmqf827h30u7dfca3x2aqvzjv,cmqjm87kwbopdbezqck65i6dq,preflop,J7s,Jd 7d,,fold,0,0,5,1,4241,fold J7s vs raise
+2026-06-18 15:51:14,cmqf827h30u7dfca3x2aqvzjv,cmqjm87kwbopdbezqck65i6dq,preflop,J7s,Jd 7d,,fold,0,0,5,1,4241,fold J7s vs raise
+2026-06-18 15:51:21,cmqf827h30u7dfca3x2aqvzjv,cmqjm87kwbopdbezqck65i6dq,preflop,J7s,Jd 7d,,fold,0,0,5,1,4241,fold J7s vs raise
+2026-06-18 15:52:12,cmqggiv9k37am11ydmppz466e,cmqjmatpcc6z1bezqp247d3zh,preflop,92o,2d 9c,,fold,0,0,50,10,594,fold 92o
+2026-06-18 15:52:19,cmqggiv9k37am11ydmppz466e,cmqjmatpcc6z1bezqp247d3zh,preflop,92o,2d 9c,,fold,0,0,50,10,594,fold 92o
+2026-06-18 15:53:13,cmqggiv9k37am11ydmppz466e,cmqjmdedsckpgbezqhpkjio6h,preflop,QJo,Qs Jd,,call,0,0,15,10,594,call QJo — see flop
+2026-06-18 15:53:21,cmqggiv9k37am11ydmppz466e,cmqjmdedsckpgbezqhpkjio6h,preflop,QJo,Qs Jd,,call,0,0,15,10,594,call QJo — see flop
+2026-06-18 15:54:25,cmqggiv9k37am11ydmppz466e,cmqjmdedsckpgbezqhpkjio6h,flop,QJo,Qs Jd,9c 2h 2d,check,0,19,45,0,584,check eq=19%
+2026-06-18 15:54:40,cmqggiv9k37am11ydmppz466e,cmqjmdedsckpgbezqhpkjio6h,flop,QJo,Qs Jd,9c 2h 2d,fold,0,21,67,22,584,fold eq=21%
+2026-06-18 15:55:13,cmqggiv9k37am11ydmppz466e,cmqjmfznad4pkbezqgd3ipbqx,preflop,87o,7h 8d,,fold,0,0,15,10,584,fold 87o
+2026-06-18 15:55:20,cmqggiv9k37am11ydmppz466e,cmqjmfznad4pkbezqgd3ipbqx,preflop,87o,7h 8d,,fold,0,0,15,10,584,fold 87o
+2026-06-18 15:55:29,cmqggiv9k37am11ydmppz466e,cmqjmfznad4pkbezqgd3ipbqx,preflop,87o,7h 8d,,fold,0,0,15,10,584,deadline
+2026-06-18 15:56:32,cmqggiv9k37am11ydmppz466e,cmqjmh9iid8z8bezqiuail10k,preflop,52o,2d 5s,,fold,0,0,35,10,574,fold 52o
+2026-06-18 15:58:11,cmqf827h30u7dfca3x2aqvzjv,cmqjmiha0dhdsbezqka3kctd7,preflop,92o,9d 2c,,fold,0,0,3,1,4240,fold 92o
+2026-06-18 15:58:18,cmqggiv9k37am11ydmppz466e,cmqjmijghdi0lbezq1u9srjy8,preflop,99,9h 9d,,raise,30,0,25,0,564,raise 99
+2026-06-18 15:58:26,cmqggiv9k37am11ydmppz466e,cmqjmijghdi0lbezq1u9srjy8,flop,99,9h 9d,6s 2s 8d,check,0,45,65,0,544,check eq=45%
+2026-06-18 15:58:35,cmqggiv9k37am11ydmppz466e,cmqjmijghdi0lbezq1u9srjy8,flop,99,9h 9d,6s 2s 8d,check,0,43,65,0,544,check eq=43%
+2026-06-18 15:58:42,cmqggiv9k37am11ydmppz466e,cmqjmijghdi0lbezq1u9srjy8,flop,99,9h 9d,6s 2s 8d,check,0,0,65,0,544,deadline
+2026-06-18 15:58:50,cmqggiv9k37am11ydmppz466e,cmqjmijghdi0lbezq1u9srjy8,turn,99,9h 9d,6s 2s 8d 4c,check,0,41,65,0,544,check eq=41%
+2026-06-18 15:58:57,cmqggiv9k37am11ydmppz466e,cmqjmijghdi0lbezq1u9srjy8,river,99,9h 9d,6s 2s 8d 4c 4d,bet,100,0,65,0,544,two-pair value
+2026-06-18 15:59:13,cmqggiv9k37am11ydmppz466e,cmqjml1swdwbfbezqdy4ytks4,preflop,82o,2s 8h,,fold,0,0,15,10,709,fold 82o
+2026-06-18 16:00:16,cmqggiv9k37am11ydmppz466e,cmqjmmf2ge36vbezqjhykv3su,preflop,K9s,9c Kc,,call,0,0,15,10,709,call K9s — see flop
+2026-06-18 16:00:46,cmqggiv9k37am11ydmppz466e,cmqjmmf2ge36vbezqjhykv3su,preflop,K9s,9c Kc,,call,0,0,55,10,699,call K9s — see flop
+2026-06-18 16:00:54,cmqggiv9k37am11ydmppz466e,cmqjmmf2ge36vbezqjhykv3su,flop,K9s,9c Kc,Qs Kh 4s,bet,100,54,75,0,689,value eq=54%
+2026-06-18 16:01:10,cmqggiv9k37am11ydmppz466e,cmqjmmf2ge36vbezqjhykv3su,turn,K9s,9c Kc,Qs Kh 4s 7h,bet,243,62,375,0,589,value eq=62%
+2026-06-18 16:01:32,cmqggiv9k37am11ydmppz466e,cmqjmmf2ge36vbezqjhykv3su,turn,K9s,9c Kc,Qs Kh 4s 7h,call,0,55,3066,346,346,call allin EV=1541 eq=55%
+2026-06-18 16:01:41,cmqggiv9k37am11ydmppz466e,cmqjmmf2ge36vbezqjhykv3su,turn,K9s,9c Kc,Qs Kh 4s 7h,fold,0,0,3066,346,346,deadline
+2026-06-18 16:02:12,cmqf827h30u7dfca3x2aqvzjv,cmqjml2svdwrebezq58dlgb4z,preflop,K7o,Ks 7c,,fold,0,0,3,1,4239,fold K7o
+2026-06-18 16:02:29,cmqggiv9k37am11ydmppz466e,cmqjmox3meiqvbezqzqaqpf5z,preflop,Q2o,2s Qd,,fold,0,0,25,10,346,fold Q2o
+2026-06-18 16:02:37,cmqggiv9k37am11ydmppz466e,cmqjmox3meiqvbezqzqaqpf5z,preflop,Q2o,2s Qd,,fold,0,0,25,10,346,deadline
+2026-06-18 16:02:45,cmqggiv9k37am11ydmppz466e,cmqjmox3meiqvbezqzqaqpf5z,preflop,Q2o,2s Qd,,fold,0,0,25,10,346,deadline
+2026-06-18 16:03:08,cmqf827h30u7dfca3x2aqvzjv,cmqjmq7wrepjdbezqhfwk7q12,preflop,73s,3c 7c,,fold,0,0,3,2,4239,fold 73s
+2026-06-18 16:04:10,cmqggiv9k37am11ydmppz466e,cmqjmrhieeu5sbezqvvs9n3vs,preflop,J8o,8d Jh,,fold,0,0,15,10,346,fold J8o
+2026-06-18 16:05:12,cmqggiv9k37am11ydmppz466e,cmqjmsudhf1ambezqgq8iorp2,preflop,Q8o,8d Qc,,fold,0,0,15,10,346,fold Q8o
+2026-06-18 16:06:12,cmqggiv9k37am11ydmppz466e,cmqjmu4b0f9anbezq4n7xxayv,preflop,T7o,7s Td,,fold,0,0,15,10,346,fold T7o
+2026-06-18 16:07:05,cmqf827h30u7dfca3x2aqvzjv,cmqjmvcyafgnbbezq5082yb5v,preflop,K5s,5d Kd,,fold,0,0,3,2,4239,fold K5s
+2026-06-18 16:07:12,cmqggiv9k37am11ydmppz466e,cmqjmvc9wfge1bezqgvvwsrpz,preflop,A5o,5h As,,fold,0,0,15,10,346,fold A5o
+2026-06-18 16:08:27,cmqggiv9k37am11ydmppz466e,cmqjmwoxwfltybezqty33r3dm,preflop,86s,8s 6s,,fold,0,0,105,30,336,fold 86s
+2026-06-18 16:09:26,cmqggiv9k37am11ydmppz466e,cmqjmxz8afuwwbezqmdafb4v8,preflop,KJo,Kh Jc,,call,0,0,35,15,331,call KJo — see flop
+2026-06-18 16:09:48,cmqggiv9k37am11ydmppz466e,cmqjmxz8afuwwbezqmdafb4v8,flop,KJo,Kh Jc,3s 2s Js,check,0,43,50,0,316,check eq=43%
+2026-06-18 16:09:56,cmqggiv9k37am11ydmppz466e,cmqjmxz8afuwwbezqmdafb4v8,flop,KJo,Kh Jc,3s 2s Js,fold,0,40,70,20,316,fold eq=40%
+2026-06-18 16:10:19,cmqggiv9k37am11ydmppz466e,cmqjmz9tjg58hbezq9snncrk4,preflop,72o,7d 2c,,fold,0,0,45,30,316,fold 72o
+2026-06-18 16:11:17,cmqggiv9k37am11ydmppz466e,cmqjn0jkjgcbwbezqqbjw4srw,preflop,J4o,4s Jh,,fold,0,0,35,20,316,fold J4o
+2026-06-18 16:12:16,cmqggiv9k37am11ydmppz466e,cmqjn1ugugi9zbezqnqf22lvw,preflop,T8o,8d Ts,,fold,0,0,15,10,316,fold T8o vs raise
+2026-06-18 16:13:08,cmqf827h30u7dfca3x2aqvzjv,cmqjn0hyvgbvdbezqtlh7weib,preflop,K9o,9h Ks,,call,0,0,8,5,4239,call K9o — see flop
+2026-06-18 16:14:15,cmqggiv9k37am11ydmppz466e,cmqjn4f0kgxqrbezq7359zoth,preflop,AJo,Jh Ad,,call,0,0,15,10,316,call AJo — see flop
+2026-06-18 16:15:12,cmqggiv9k37am11ydmppz466e,cmqjn4f0kgxqrbezq7359zoth,preflop,AJo,Jh Ad,,call,0,0,60,10,306,call AJo — see flop
+2026-06-18 16:15:13,cmqf827h30u7dfca3x2aqvzjv,cmqjn0hyvgbvdbezqtlh7weib,flop,K9o,9h Ks,7h Qd 8s,fold,0,16,20,7,4234,fold eq=16%
+2026-06-18 16:15:21,cmqggiv9k37am11ydmppz466e,cmqjn4f0kgxqrbezq7359zoth,flop,AJo,Jh Ad,5h 8d 8c,check,0,27,70,0,296,check eq=27%
+2026-06-18 16:15:36,cmqggiv9k37am11ydmppz466e,cmqjn4f0kgxqrbezq7359zoth,turn,AJo,Jh Ad,5h 8d 8c Ac,bet,100,0,70,0,296,two-pair value
+2026-06-18 16:15:51,cmqggiv9k37am11ydmppz466e,cmqjn4f0kgxqrbezq7359zoth,river,AJo,Jh Ad,5h 8d 8c Ac Ts,bet,117,0,270,0,196,two-pair value
+2026-06-18 16:15:58,cmqggiv9k37am11ydmppz466e,cmqjn4f0kgxqrbezq7359zoth,river,AJo,Jh Ad,5h 8d 8c Ac Ts,bet,117,0,270,0,196,two-pair value
+2026-06-18 16:16:04,cmqggiv9k37am11ydmppz466e,cmqjn4f0kgxqrbezq7359zoth,river,AJo,Jh Ad,5h 8d 8c Ac Ts,check,0,0,270,0,196,deadline
+2026-06-18 16:17:08,cmqf827h30u7dfca3x2aqvzjv,cmqjn6xd3h6vwbezq9009jn8q,preflop,84o,4s 8h,,fold,0,0,3,2,4234,fold 84o
+2026-06-18 16:17:22,cmqggiv9k37am11ydmppz466e,cmqjn89z2hdhtbezq5d0ejyjp,preflop,A5o,Ah 5d,,fold,0,0,35,20,466,fold A5o
+2026-06-18 16:18:19,cmqggiv9k37am11ydmppz466e,cmqjn9jxhhk3ebezqbehp5omz,preflop,82s,8c 2c,,fold,0,0,67,42,466,fold 82s
+2026-06-18 16:19:24,cmqggiv9k37am11ydmppz466e,cmqjnau3chpn0bezq01wzhgpz,preflop,Q8s,Qc 8c,,call,0,0,140,90,461,call Q8s — see flop
+2026-06-18 16:19:39,cmqggiv9k37am11ydmppz466e,cmqjnau3chpn0bezq01wzhgpz,flop,Q8s,Qc 8c,7h 5h Tc,check,0,15,295,0,371,check eq=15%
+2026-06-18 16:19:55,cmqggiv9k37am11ydmppz466e,cmqjnau3chpn0bezq01wzhgpz,flop,Q8s,Qc 8c,7h 5h Tc,fold,0,17,466,171,371,fold eq=17%
+2026-06-18 16:20:02,cmqggiv9k37am11ydmppz466e,cmqjnau3chpn0bezq01wzhgpz,flop,Q8s,Qc 8c,7h 5h Tc,fold,0,17,466,171,371,fold eq=17%
+2026-06-18 16:21:14,cmqggiv9k37am11ydmppz466e,cmqjndez4i1s3bezqe653wxh0,preflop,K5s,Ks 5s,,fold,0,0,15,10,371,fold K5s
+2026-06-18 16:22:25,cmqggiv9k37am11ydmppz466e,cmqjnepfdiadibezqruwtzex3,preflop,A8o,Ad 8s,,fold,0,0,45,10,361,fold A8o vs raise
+2026-06-18 16:23:12,cmqggiv9k37am11ydmppz466e,cmqjnfzfiihq2bezqg0na8nvt,preflop,J3s,3s Js,,fold,0,0,15,10,361,fold J3s
+2026-06-18 16:26:22,cmqggiv9k37am11ydmppz466e,cmqjnihk1iwjsbezqi71yd3bj,preflop,K7o,Kd 7h,,fold,0,0,50,30,356,fold K7o
+2026-06-18 16:27:26,cmqggiv9k37am11ydmppz466e,cmqjnl4mzjarbbezqy4vwgf3r,preflop,Q4o,Qc 4h,,fold,0,0,45,20,346,fold Q4o
+2026-06-18 16:28:18,cmqggiv9k37am11ydmppz466e,cmqjnmeu6jhtwbezqt11fm74c,preflop,K4s,4c Kc,,fold,0,0,15,10,346,fold K4s
+2026-06-18 16:30:16,cmqggiv9k37am11ydmppz466e,cmqjnox8mjx1vbezq82tmopgh,preflop,94s,4s 9s,,fold,0,0,45,30,346,fold 94s
+2026-06-18 16:31:09,cmqf827h30u7dfca3x2aqvzjv,cmqjnnnmbjoxbbezq81g1139u,preflop,Q7o,Qd 7h,,fold,0,0,7,1,4235,fold Q7o
+2026-06-18 16:33:13,cmqggiv9k37am11ydmppz466e,cmqjnq9ljk62pbezqkkdy56ed,preflop,63o,3d 6h,,fold,0,0,15,10,346,fold 63o
+2026-06-18 16:34:34,cmqggiv9k37am11ydmppz466e,cmqjnu4l2kqkvbezq7jgpswsh,preflop,77,7s 7h,,call,0,0,15,5,341,call 77 — see flop
+2026-06-18 16:34:42,cmqggiv9k37am11ydmppz466e,cmqjnu4l2kqkvbezq7jgpswsh,flop,77,7s 7h,4c 2s Ah,check,0,31,20,0,336,check eq=31%
+2026-06-18 16:34:58,cmqggiv9k37am11ydmppz466e,cmqjnu4l2kqkvbezq7jgpswsh,turn,77,7s 7h,4c 2s Ah 7c,bet,100,0,20,0,336,monster rank3
+2026-06-18 16:35:06,cmqf827h30u7dfca3x2aqvzjv,cmqjnvd3oky0mbezq2r2qmxtl,preflop,T3s,Tc 3c,,fold,0,0,3,2,4235,fold T3s
+2026-06-18 16:35:14,cmqf827h30u7dfca3x2aqvzjv,cmqjnvd3oky0mbezq2r2qmxtl,preflop,T3s,Tc 3c,,fold,0,0,3,2,4235,fold T3s
+2026-06-18 16:36:23,cmqggiv9k37am11ydmppz466e,cmqjnwoq5l3ivbezqj9smh70v,preflop,J8s,Jh 8h,,call,0,0,45,15,351,call J8s — see flop
+2026-06-18 16:36:31,cmqggiv9k37am11ydmppz466e,cmqjnwoq5l3ivbezqj9smh70v,flop,J8s,Jh 8h,Ah 9c 7d,check,0,26,70,0,336,check eq=26%
+2026-06-18 16:36:46,cmqggiv9k37am11ydmppz466e,cmqjnwoq5l3ivbezqj9smh70v,turn,J8s,Jh 8h,Ah 9c 7d 3h,bet,100,0,70,0,336,flush draw — semi-bluff
+2026-06-18 16:37:18,cmqggiv9k37am11ydmppz466e,cmqjnxzwclchlbezqpnb528bh,preflop,53s,3h 5h,,fold,0,0,15,10,406,fold 53s
+2026-06-18 16:38:21,cmqggiv9k37am11ydmppz466e,cmqjnz7efli7obezqwhqoelfh,preflop,T4o,4d Tc,,fold,0,0,35,10,396,fold T4o
+2026-06-18 16:40:10,cmqggiv9k37am11ydmppz466e,cmqjo0k6yls0zbezqp7nmvj7c,preflop,QTo,Td Qs,,fold,0,0,40,20,386,deadline
+2026-06-18 16:41:19,cmqggiv9k37am11ydmppz466e,cmqjo34gwm5glbezq1sorguqv,preflop,A8o,Ac 8s,,fold,0,0,15,10,386,fold A8o
+2026-06-18 16:42:23,cmqggiv9k37am11ydmppz466e,cmqjo4cm2maimbezqs97uhrbp,preflop,66,6c 6s,,call,0,0,35,15,381,call 66 — see flop
+2026-06-18 16:42:39,cmqggiv9k37am11ydmppz466e,cmqjo4cm2maimbezqs97uhrbp,flop,66,6c 6s,9d Ts 4s,check,0,23,50,0,366,check eq=23%
+2026-06-18 16:42:46,cmqggiv9k37am11ydmppz466e,cmqjo4cm2maimbezqs97uhrbp,flop,66,6c 6s,9d Ts 4s,fold,0,24,80,30,366,fold eq=24%
+2026-06-18 16:43:18,cmqggiv9k37am11ydmppz466e,cmqjo5mwpmi2fbezqjzl7sqgs,preflop,76s,7d 6d,,fold,0,0,40,25,366,fold 76s
+2026-06-18 16:44:08,cmqf827h30u7dfca3x2aqvzjv,cmqjo6xycmn2ibezqyiekkihk,preflop,53o,3s 5c,,fold,0,0,3,2,4235,fold 53o
+2026-06-18 16:45:24,cmqggiv9k37am11ydmppz466e,cmqjo87eemvatbezqdiwyf5mq,preflop,Q2o,2s Qc,,fold,0,0,25,5,361,fold Q2o
+2026-06-18 16:46:12,cmqf827h30u7dfca3x2aqvzjv,cmqjo88himvrybezq49rjfys1,preflop,95o,9s 5d,,fold,0,0,8,3,4233,fold 95o
+2026-06-18 16:46:19,cmqf827h30u7dfca3x2aqvzjv,cmqjo88himvrybezq49rjfys1,preflop,95o,9s 5d,,fold,0,0,8,3,4233,fold 95o
+2026-06-18 16:46:27,cmqggiv9k37am11ydmppz466e,cmqjo9k5un5etbezqvl0e3yjt,preflop,52s,2d 5d,,fold,0,0,45,20,351,fold 52s
+2026-06-18 16:47:29,cmqggiv9k37am11ydmppz466e,cmqjoauf4nb02bezqttq7ltg6,preflop,ATo,Th Ad,,call,0,0,45,10,341,call ATo — see flop
+2026-06-18 16:47:37,cmqggiv9k37am11ydmppz466e,cmqjoauf4nb02bezqttq7ltg6,flop,ATo,Th Ad,6c 9d 8c,check,0,25,55,0,331,check eq=25%
+2026-06-18 16:47:46,cmqggiv9k37am11ydmppz466e,cmqjoauf4nb02bezqttq7ltg6,flop,ATo,Th Ad,6c 9d 8c,fold,0,24,93,38,331,fold eq=24%
+2026-06-18 16:48:23,cmqggiv9k37am11ydmppz466e,cmqjoc2ojnguubezqac9rkptu,preflop,KQo,Qs Kh,,call,0,0,25,10,331,call KQo — see flop
+2026-06-18 16:49:08,cmqggiv9k37am11ydmppz466e,cmqjoc2ojnguubezqac9rkptu,flop,KQo,Qs Kh,2s 3c 4h,check,0,17,40,0,321,check eq=17%
+2026-06-18 16:49:09,cmqf827h30u7dfca3x2aqvzjv,cmqjoas4rnacjbezqcro96mly,preflop,J7o,Jc 7d,,fold,0,0,3,2,4233,fold J7o
+2026-06-18 16:49:15,cmqggiv9k37am11ydmppz466e,cmqjoc2ojnguubezqac9rkptu,flop,KQo,Qs Kh,2s 3c 4h,check,0,17,40,0,321,check eq=17%
+2026-06-18 16:49:16,cmqf827h30u7dfca3x2aqvzjv,cmqjoas4rnacjbezqcro96mly,preflop,J7o,Jc 7d,,fold,0,0,3,2,4233,fold J7o
+2026-06-18 16:49:23,cmqggiv9k37am11ydmppz466e,cmqjoc2ojnguubezqac9rkptu,flop,KQo,Qs Kh,2s 3c 4h,check,0,0,40,0,321,deadline
+2026-06-18 16:49:24,cmqf827h30u7dfca3x2aqvzjv,cmqjoas4rnacjbezqcro96mly,preflop,J7o,Jc 7d,,fold,0,0,3,2,4233,fold J7o
+2026-06-18 16:49:46,cmqggiv9k37am11ydmppz466e,cmqjoc2ojnguubezqac9rkptu,turn,KQo,Qs Kh,2s 3c 4h 9h,check,0,9,40,0,321,check eq=9%
+2026-06-18 16:50:09,cmqggiv9k37am11ydmppz466e,cmqjoc2ojnguubezqac9rkptu,river,KQo,Qs Kh,2s 3c 4h 9h Kd,bet,100,64,40,0,321,value eq=64%
+2026-06-18 16:50:16,cmqggiv9k37am11ydmppz466e,cmqjoc2ojnguubezqac9rkptu,river,KQo,Qs Kh,2s 3c 4h 9h Kd,check,0,0,40,0,321,deadline
+2026-06-18 16:50:24,cmqggiv9k37am11ydmppz466e,cmqjoc2ojnguubezqac9rkptu,river,KQo,Qs Kh,2s 3c 4h 9h Kd,check,0,0,40,0,321,deadline
+2026-06-18 16:52:06,cmqf827h30u7dfca3x2aqvzjv,cmqjofydfo0k5bezqbgkh3zuc,preflop,98o,9c 8d,,fold,0,0,3,2,4233,fold 98o
+2026-06-18 16:52:14,cmqggiv9k37am11ydmppz466e,cmqjofxjuo04vbezq8m6zaq2r,preflop,J3o,Jc 3s,,fold,0,0,45,5,356,fold J3o
+2026-06-18 16:52:21,cmqggiv9k37am11ydmppz466e,cmqjofxjuo04vbezq8m6zaq2r,preflop,J3o,Jc 3s,,fold,0,0,45,5,356,fold J3o
+2026-06-18 16:52:29,cmqggiv9k37am11ydmppz466e,cmqjofxjuo04vbezq8m6zaq2r,preflop,J3o,Jc 3s,,fold,0,0,45,5,356,deadline
+2026-06-18 16:54:17,cmqggiv9k37am11ydmppz466e,cmqjoii3lob1kbezqs3i7w1th,preflop,J6o,Js 6c,,fold,0,0,40,20,346,fold J6o
+2026-06-18 16:54:25,cmqggiv9k37am11ydmppz466e,cmqjoii3lob1kbezqs3i7w1th,preflop,J6o,Js 6c,,fold,0,0,40,20,346,fold J6o
+2026-06-18 16:54:33,cmqggiv9k37am11ydmppz466e,cmqjoii3lob1kbezqs3i7w1th,preflop,J6o,Js 6c,,fold,0,0,40,20,346,deadline
+2026-06-18 16:55:11,cmqf827h30u7dfca3x2aqvzjv,cmqjol3haop6xbezqli7hua1e,preflop,76o,6s 7h,,fold,0,0,3,2,4233,fold 76o
+2026-06-18 16:55:18,cmqggiv9k37am11ydmppz466e,cmqjol2czoop9bezq1r1687uz,preflop,92s,9h 2h,,fold,0,0,25,10,346,fold 92s
+2026-06-18 16:55:25,cmqggiv9k37am11ydmppz466e,cmqjol2czoop9bezq1r1687uz,preflop,92s,9h 2h,,fold,0,0,25,10,346,deadline
+2026-06-18 16:55:33,cmqggiv9k37am11ydmppz466e,cmqjol2czoop9bezq1r1687uz,preflop,92s,9h 2h,,fold,0,0,25,10,346,deadline
+2026-06-18 16:56:20,cmqggiv9k37am11ydmppz466e,cmqjomcr7oya7bezq1fun1f1s,preflop,K2o,2h Kd,,fold,0,0,25,10,346,fold K2o
+2026-06-18 16:56:27,cmqggiv9k37am11ydmppz466e,cmqjomcr7oya7bezq1fun1f1s,preflop,K2o,2h Kd,,fold,0,0,25,10,346,fold K2o
+2026-06-18 16:56:36,cmqggiv9k37am11ydmppz466e,cmqjomcr7oya7bezq1fun1f1s,preflop,K2o,2h Kd,,fold,0,0,25,10,346,deadline
